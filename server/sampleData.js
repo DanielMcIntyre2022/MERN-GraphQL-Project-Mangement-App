@@ -60,7 +60,7 @@ const projects = [
       id: '3',
       name: 'Thor Odinson',
       email: 'test3@gmail.com',
-      phone: '324-331-4333',
+      phone: 'fake number',
     },
     {
       id: '4',
